@@ -73,9 +73,7 @@ Rankings are tested under four alternative like/dislike splits (50/50, 40/60, 35
 
 ## Key Finding
 
-Higher WCI scores associate with *lower* average star ratings (negative OLS beta). This is intentional — text sentiment and star ratings capture different dimensions of workplace experience. The divergence is a central insight of the project.
-
-> Veljan Denison (n = 35) results are marked with an asterisk throughout the dashboard. Treat with caution.
+Higher WCI scores associate with *lower* average star ratings. Text sentiment and star ratings capture different dimensions of workplace experience. The divergence is a central insight of the project.
 
 ---
 
