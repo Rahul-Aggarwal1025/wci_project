@@ -29,7 +29,7 @@ Raw reviews (Data.xlsx + ltimindtree_reviews.csv)
     Dashboard  (Streamlit + Plotly)
 ```
 
-All steps live in `clening_data_stage_1.ipynb`. The notebook produces a series of intermediate CSVs that feed into `app.py`.
+All steps live in `code_file_main.ipynb`. The notebook produces a series of intermediate CSVs that feed into `app.py`.
 
 ---
 
